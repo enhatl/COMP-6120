@@ -4,7 +4,7 @@
 $dbhost = "sysmysql8.auburn.edu";
 $dbname = 'enh0019db';
 $dbuser = "enh0019";
-$dbpass = "Teamd0j0!";
+$dbpass = "*********";
 
 function getConnection() {
 	global $dbhost, $dbuser, $dbpass, $dbname;
